@@ -54,10 +54,6 @@ https://github.com/IABTechLab/registry-agent-example
 
 Demonstrates agent discovery, registration, and coordination patterns.
 
-\---
-
-\---
-
 # **Release & Versioning Model**
 
 AAMP follows a modular release strategy:
@@ -72,8 +68,6 @@ AAMP follows a modular release strategy:
 
 This avoids monorepo complexity while maintaining structured governance.
 
-\---
-
 # **Governance & Contribution Model**
 
 \- Contributions should be submitted in the respective child repository.
@@ -84,16 +78,10 @@ This avoids monorepo complexity while maintaining structured governance.
 
 \- All repositories follow IAB Tech Lab contribution and code of conduct policies.
 
-\---
-
-\---
-
 # **Official Links**
 
 Organization: https://github.com/IABTechLab
 
 AAMP Hub: https://github.com/IABTechLab/AAMP
-
-\---
 
 AAMP is designed to foster collaborative innovation and interoperable agent-based experimentation within digital advertising systems.
