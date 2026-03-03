@@ -52,7 +52,7 @@ Reference implementation of supply-side coordination and marketplace interaction
 
 Demonstrates agent discovery, registration, and coordination patterns.
 
-### **5\. Agentic RTB**
+### **5\. Agentic Real Time Framework (ARTF)**
 
 <https://github.com/IABTechLab/agentic-rtb-framework>
 
