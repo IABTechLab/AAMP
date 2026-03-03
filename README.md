@@ -6,8 +6,6 @@ AAMP is the umbrella initiative under which all of Tech Lab’s Agentic work is 
 
 This repository serves as the central hub for the AAMP framework.
 
-—
-
 Each framework or protocol under the AAMP Umbrella:
 
 \- Operates independently
@@ -17,8 +15,6 @@ Each framework or protocol under the AAMP Umbrella:
 \- Has dedicated issue tracking
 
 \- Can be adopted standalone
-
-\---
 
 # **Ecosystem Structure**
 
