@@ -56,7 +56,7 @@ Demonstrates agent discovery, registration, and coordination patterns.
 
 <https://github.com/IABTechLab/agentic-rtb-framework>
 
-Agentic RTB Framework (ARTF) v1.0 specification for agent-driven containers in OpenRTB and Digital Advertising.
+ARTF is a foundation for implementing agent services which operate within a host platform and that the orchestrating platform can call directly to accomplish a shared goal.
 
 ### **6\. Agentic Audience**
 
