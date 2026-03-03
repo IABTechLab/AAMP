@@ -16,7 +16,7 @@ This repository serves as the central hub for the AAMP framework with links to e
 
 \- The AAMP Hub references stable releases for ecosystem clarity.
 
-# **Governance & Contribution Model**
+### **Governance & Contribution Model**
 
 \- Contributions should be submitted in the respective child repository.
 
@@ -51,3 +51,15 @@ Reference implementation of supply-side coordination and marketplace interaction
 <https://github.com/IABTechLab/registry-agent-example>
 
 Demonstrates agent discovery, registration, and coordination patterns.
+
+### **5\. Agentic RTB**
+
+<https://github.com/IABTechLab/agentic-rtb-framework>
+
+Agentic RTB Framework (ARTF) v1.0 specification for agent-driven containers in OpenRTB and Digital Advertising.
+
+### **6\. Agentic Audience**
+
+<https://github.com/IABTechLab/agentic-audiences>
+
+An Open Protocol for Intelligent Interoperability Across Advertising Agents.
