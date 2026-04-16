@@ -58,7 +58,7 @@ Demonstrates agent discovery, registration, and coordination patterns.
 
 ARTF is a foundation for implementing agent services which operate within a host platform and that the orchestrating platform can call directly to accomplish a shared goal.
 
-### **6\. Agentic Audience**
+### **6\. Agentic Audiences**
 
 <https://github.com/IABTechLab/agentic-audiences>
 
