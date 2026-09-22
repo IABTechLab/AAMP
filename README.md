@@ -46,19 +46,25 @@ Reference implementation of demand-side agent logic and decision workflows.
 
 Reference implementation of supply-side coordination and marketplace interaction.
 
-### **4\. Registry Agent (Example)**
+### **4\. Open Proposal**
+
+<https://github.com/IABTechLab/OpenProposal>
+
+Standardizing for publishers to define advertising products and packages and to represent them in RFP responses
+
+### **5\. Registry Agent (Example)**
 
 <https://github.com/IABTechLab/registry-agent-example>
 
 Demonstrates agent discovery, registration, and coordination patterns.
 
-### **5\. Agentic Real Time Framework (ARTF)**
+### **6\. Agentic Real Time Framework (ARTF)**
 
 <https://github.com/IABTechLab/agentic-rtb-framework>
 
 ARTF is a foundation for implementing agent services which operate within a host platform and that the orchestrating platform can call directly to accomplish a shared goal.
 
-### **6\. Agentic Audiences**
+### **7\. Agentic Audiences**
 
 <https://github.com/IABTechLab/agentic-audiences>
 
