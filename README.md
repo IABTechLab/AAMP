@@ -26,6 +26,8 @@ This repository serves as the central hub for the AAMP framework with links to e
 
 \- All repositories follow IAB Tech Lab contribution and code of conduct policies.
 
+\- Contributions to AAMP repositories are subject to the Contribution Terms in [CONTRIBUTING.md](CONTRIBUTING.md#ipr), including the copyright and patent licenses set out there. If you are a member of the IAB Tech Lab, the [IPR Policy](https://iabtechlab.com/ipr-iab-techlab/acknowledge-ipr/) also applies to your contribution and controls in the event of a conflict.
+
 ## **AAMP Repositories**
 
 ### **1\. Agentic Direct (Core Orchestration)**
